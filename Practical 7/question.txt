@@ -1,0 +1,5 @@
+Question: What's the number of total death in Malaysia?
+Line number: from line 6 to line 7
+Discussion: The answer to the question above is 91. 
+                   This is what i expected to be. 
+                   I used the code "covid_data.loc[covid_data.loc[:,"location"]=="Malaysia","total_cases"]" to find out the result.
